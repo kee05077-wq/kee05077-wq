@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Daehyun Kang, a student at Gachon University.
+I'm Daehyeon Kang, a student at Gachon University.
 I started using GitHub while taking an Open Source Software course.
 
 ### Currently learning
